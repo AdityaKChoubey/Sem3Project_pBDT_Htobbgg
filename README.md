@@ -1,12 +1,3 @@
-# Multivariate Analysis Suite for $WH \to \ell\nu aa \to \ell\nu b\bar{b}\gamma\gamma$
-
-**Complementary Codebase for the Mid-Semester Project Report**  
-**Author:** Aditya Kumar Choubey  
-**Affiliation:** Department of Physics, Indian Institute of Science Education and Research (IISER), Pune  
-**Contact:** `aditya.choubey@students.iiserpune.ac.in`  
-**Date:** October 2026  
-
----
 
 ## 1. Executive Summary & Physics Context
 
